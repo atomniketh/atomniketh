@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atomniketh
 - 👀 I’m interested in Solidity, IPFS and Web3
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning MoonMath.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
