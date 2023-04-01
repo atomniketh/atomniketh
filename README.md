@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @atomniketh
-- 👀 I’m interested in Solidity, IPFS and Web3
+- 👀 I’m interested in Solidity, ZK use cases, and Web3
 - 🌱 I’m currently learning MoonMath.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ZK dapps.
+- 📫 How to reach me: atomnik.eth@icloud.com
 
 <!---
 atomniketh/atomniketh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
